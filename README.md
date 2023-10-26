@@ -20,7 +20,7 @@
 1. **Authentication**: Secure user account creation and login.
 2. **Product Listings**: Easy browsing of items available for trade.
 3. **Search and Discovery**: Quick and effective item search.
-4. **Product Listing**: List your own items for trading.
+4. **Product Upload**: Add your own products for trading.
 5. **Barter Proposals**: Initiate trade offers with other users.
 
 ## Tech Stack <a name="tech-stack"></a>
