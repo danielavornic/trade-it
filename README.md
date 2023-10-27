@@ -1,5 +1,7 @@
 # Trade It
 
+<img src="https://i.ibb.co/R3FGrm6/homepage.png" alt="homepage" border="0" width="100%" />
+
 ## Table Of Contents
 
 - [Overview](#overview)
