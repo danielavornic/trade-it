@@ -1,6 +1,6 @@
 # Trade It
 
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDTkhFT1RidyY7zyHTvcAtS8aODQ5874sDrinxqD9j134oAt2DkooQrkHtB-hpH3415MxB8TWl6zTUMnveOE8rd8KqarA" alt="homepage" border="0" width="100%" />
+<img src="[https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDTkhFT1RidyY7zyHTvcAtS8aODQ5874sDrinxqD9j134oAt2DkooQrkHtB-hpH3415MxB8TWl6zTUMnveOE8rd8KqarA](https://minio-console-f5t2.onrender.com/api/v1/buckets/images/objects/download?preview=true&prefix=aG9tZXBhZ2UucG5n&version_id=null)" alt="homepage" border="0" width="100%" />
 
 ## Table Of Contents
 
@@ -23,7 +23,9 @@
 2. **Product Listings**: Easy browsing of items available for trade.
 3. **Search and Discovery**: Quick and effective item search.
 4. **Product Upload**: Add your own products for trading.
-5. **Barter Proposals**: Initiate trade offers with other users.
+5. **Barter Transactions**: Initiate and manage trades with other users.
+6. **Messagining System**: Chat with other users.
+7. **Real-time notifications**: Get notifications for barter updates.
 
 ## Tech Stack <a name="tech-stack"></a>
 
@@ -47,12 +49,6 @@
 - Felicia Novac, FAF-222
 - Maria Cucoș, FAF-221
 - Valeria Frunză, FAF-221
-
-## Midterm 2 To-Do List <a name="midterm-to-do-list"></a>
-
-- [ ] Complete barter transactions management.
-- [ ] Implement a notifications system.
-- [ ] Enhance user profile pages.
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
