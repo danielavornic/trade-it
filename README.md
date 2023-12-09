@@ -10,7 +10,6 @@
   - [Front-end](#front-end)
   - [Back-end](#back-end)
 - [Team Members](#team-members)
-- [Midterm 2 To-Do List](#midterm-to-do-list)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview <a name="overview"></a>
